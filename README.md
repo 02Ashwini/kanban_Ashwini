@@ -1,5 +1,3 @@
-# kanban_Ashwini
-Modern project management app (MERN) with task tracking, milestone management, and optional real-time updates using Socket.IO.
 # Task / Project Management Tool — Milestones
 
 A modern task and project management web application built on the **MERN stack**, designed to help teams organize projects, manage tasks, track milestones, and collaborate efficiently. It supports real-time updates for seamless team communication and is optimized for deployment on popular cloud platforms.
